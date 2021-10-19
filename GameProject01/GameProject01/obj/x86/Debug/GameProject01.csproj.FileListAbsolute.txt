@@ -1,0 +1,160 @@
+D:\DAE_2019-2020\PD1\Week 10\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Graphics\AvatarShip.xnb
+D:\DAE_2019-2020\PD1\Week 10\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Graphics\NES - Gradius - Gradius.xnb
+D:\DAE_2019-2020\PD1\Week 10\GameProject01\GameProject01\bin\Windows\x86\Debug\GameProject01.exe
+D:\DAE_2019-2020\PD1\Week 10\GameProject01\GameProject01\bin\Windows\x86\Debug\GameProject01.pdb
+D:\DAE_2019-2020\PD1\Week 10\GameProject01\GameProject01\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\DAE_2019-2020\PD1\Week 10\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\DAE_2019-2020\PD1\Week 10\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.dll
+D:\DAE_2019-2020\PD1\Week 10\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\DAE_2019-2020\PD1\Week 10\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\DAE_2019-2020\PD1\Week 10\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\DAE_2019-2020\PD1\Week 10\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\DAE_2019-2020\PD1\Week 10\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\DAE_2019-2020\PD1\Week 10\GameProject01\GameProject01\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\DAE_2019-2020\PD1\Week 10\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\DAE_2019-2020\PD1\Week 10\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.xml
+D:\DAE_2019-2020\PD1\Week 10\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\DAE_2019-2020\PD1\Week 10\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\DAE_2019-2020\PD1\Week 10\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\DAE_2019-2020\PD1\Week 10\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\DAE_2019-2020\PD1\Week 10\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\DAE_2019-2020\PD1\Week 10\GameProject01\GameProject01\obj\x86\Debug\GameProject01.csprojAssemblyReference.cache
+D:\DAE_2019-2020\PD1\Week 10\GameProject01\GameProject01\obj\x86\Debug\GameProject01.csproj.CoreCompileInputs.cache
+D:\DAE_2019-2020\PD1\Week 10\GameProject01\GameProject01\obj\x86\Debug\GameProject01.csproj.CopyComplete
+D:\DAE_2019-2020\PD1\Week 10\GameProject01\GameProject01\obj\x86\Debug\GameProject01.exe
+D:\DAE_2019-2020\PD1\Week 10\GameProject01\GameProject01\obj\x86\Debug\GameProject01.pdb
+D:\DAE_2019-2020\PD1\Week 10 (GameProject)\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Graphics\NES - Gradius - Gradius.xnb
+D:\DAE_2019-2020\PD1\Week 10 (GameProject)\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Graphics\AvatarShip.xnb
+D:\DAE_2019-2020\PD1\Week 10 (GameProject)\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Graphics\AlienShip1Texture.xnb
+D:\DAE_2019-2020\PD1\Week 10 (GameProject)\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Graphics\AlienShip2Texture.xnb
+D:\DAE_2019-2020\PD1\Week 10 (GameProject)\GameProject01\GameProject01\bin\Windows\x86\Debug\GameProject01.exe
+D:\DAE_2019-2020\PD1\Week 10 (GameProject)\GameProject01\GameProject01\bin\Windows\x86\Debug\GameProject01.pdb
+D:\DAE_2019-2020\PD1\Week 10 (GameProject)\GameProject01\GameProject01\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\DAE_2019-2020\PD1\Week 10 (GameProject)\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\DAE_2019-2020\PD1\Week 10 (GameProject)\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.dll
+D:\DAE_2019-2020\PD1\Week 10 (GameProject)\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\DAE_2019-2020\PD1\Week 10 (GameProject)\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\DAE_2019-2020\PD1\Week 10 (GameProject)\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\DAE_2019-2020\PD1\Week 10 (GameProject)\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\DAE_2019-2020\PD1\Week 10 (GameProject)\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\DAE_2019-2020\PD1\Week 10 (GameProject)\GameProject01\GameProject01\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\DAE_2019-2020\PD1\Week 10 (GameProject)\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\DAE_2019-2020\PD1\Week 10 (GameProject)\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.xml
+D:\DAE_2019-2020\PD1\Week 10 (GameProject)\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\DAE_2019-2020\PD1\Week 10 (GameProject)\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\DAE_2019-2020\PD1\Week 10 (GameProject)\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\DAE_2019-2020\PD1\Week 10 (GameProject)\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\DAE_2019-2020\PD1\Week 10 (GameProject)\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\DAE_2019-2020\PD1\Week 10 (GameProject)\GameProject01\GameProject01\obj\x86\Debug\GameProject01.csprojAssemblyReference.cache
+D:\DAE_2019-2020\PD1\Week 10 (GameProject)\GameProject01\GameProject01\obj\x86\Debug\GameProject01.csproj.CoreCompileInputs.cache
+D:\DAE_2019-2020\PD1\Week 10 (GameProject)\GameProject01\GameProject01\obj\x86\Debug\GameProject01.csproj.CopyComplete
+D:\DAE_2019-2020\PD1\Week 10 (GameProject)\GameProject01\GameProject01\obj\x86\Debug\GameProject01.exe
+D:\DAE_2019-2020\PD1\Week 10 (GameProject)\GameProject01\GameProject01\obj\x86\Debug\GameProject01.pdb
+D:\DAE_2019-2020\PD1\Week 10 (GameProject)\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Graphics\ProjectileTexture.xnb
+D:\DAE_2019-2020\PD1\Week 10 (GameProject)\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Graphics\StartScreen.xnb
+D:\DAE_2019-2020\PD1\Week 10 (GameProject)\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Graphics\EndScreen.xnb
+D:\DAE_2019-2020\PD1\Week 10 (GameProject)\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Graphics\BackgroundTexture.xnb
+D:\DAE_2019-2020\PD1\Week 10 (GameProject)\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\ScoreFont.xnb
+D:\DAE_2019-2020\PD1\Week 10 (GameProject)\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\ScoreFont.spritefont
+D:\DAE_2019-2020\PD1\Week 10 (GameProject)\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Sounds\AlienExplosion.xnb
+D:\DAE_2019-2020\PD1\Week 10 (GameProject)\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Sounds\ProjectileShot.xnb
+D:\DAE_2019-2020\PD1\Week 10 (GameProject)\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Sounds\ShipExplosion.xnb
+D:\DAE_2019-2020\PD1\Week 10 (GameProject)\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Sounds\StartSound.xnb
+D:\DAE_2019-2020\PD1\Week 10 (GameProject)\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Sounds\Stage1.wma
+D:\DAE_2019-2020\PD1\Week 10 (GameProject)\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Sounds\Stage1.xnb
+D:\DAE_2019-2020\PD1\Week 10 (GameProject)\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Sounds\Stage2.wma
+D:\DAE_2019-2020\PD1\Week 10 (GameProject)\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Sounds\Stage2.xnb
+D:\DAE_2019-2020\PD1\Week 10 (GameProject)\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Graphics\ForestTexture.xnb
+D:\DAE_2019-2020\PD1\Week 10 (GameProject)\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Graphics\AlienShip3Texture.xnb
+D:\DAE_2019-2020\PD1\Week 10 (GameProject)\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Graphics\AlienTurretTexture.xnb
+D:\DAE_2019-2020\PD1\Week 10 (GameProject)\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Graphics\AlienProjectileTexture.xnb
+D:\DAE_2019-2020\PD1\1DAE23_PD1Game_FINAL_Olbrechts_Baue\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Graphics\NES - Gradius - Gradius.xnb
+D:\DAE_2019-2020\PD1\1DAE23_PD1Game_FINAL_Olbrechts_Baue\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Graphics\AlienShip1Texture.xnb
+D:\DAE_2019-2020\PD1\1DAE23_PD1Game_FINAL_Olbrechts_Baue\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Graphics\AlienShip2Texture.xnb
+D:\DAE_2019-2020\PD1\1DAE23_PD1Game_FINAL_Olbrechts_Baue\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Graphics\AlienShip3Texture.xnb
+D:\DAE_2019-2020\PD1\1DAE23_PD1Game_FINAL_Olbrechts_Baue\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Graphics\AlienTurretTexture.xnb
+D:\DAE_2019-2020\PD1\1DAE23_PD1Game_FINAL_Olbrechts_Baue\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Graphics\AvatarShip.xnb
+D:\DAE_2019-2020\PD1\1DAE23_PD1Game_FINAL_Olbrechts_Baue\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Graphics\BackgroundTexture.xnb
+D:\DAE_2019-2020\PD1\1DAE23_PD1Game_FINAL_Olbrechts_Baue\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Graphics\EndScreen.xnb
+D:\DAE_2019-2020\PD1\1DAE23_PD1Game_FINAL_Olbrechts_Baue\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Graphics\ForestTexture.xnb
+D:\DAE_2019-2020\PD1\1DAE23_PD1Game_FINAL_Olbrechts_Baue\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Graphics\ProjectileTexture.xnb
+D:\DAE_2019-2020\PD1\1DAE23_PD1Game_FINAL_Olbrechts_Baue\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Graphics\StartScreen.xnb
+D:\DAE_2019-2020\PD1\1DAE23_PD1Game_FINAL_Olbrechts_Baue\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\ScoreFont.spritefont
+D:\DAE_2019-2020\PD1\1DAE23_PD1Game_FINAL_Olbrechts_Baue\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Sounds\AlienExplosion.xnb
+D:\DAE_2019-2020\PD1\1DAE23_PD1Game_FINAL_Olbrechts_Baue\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Sounds\ProjectileShot.xnb
+D:\DAE_2019-2020\PD1\1DAE23_PD1Game_FINAL_Olbrechts_Baue\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Sounds\ShipExplosion.xnb
+D:\DAE_2019-2020\PD1\1DAE23_PD1Game_FINAL_Olbrechts_Baue\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Sounds\Stage1.xnb
+D:\DAE_2019-2020\PD1\1DAE23_PD1Game_FINAL_Olbrechts_Baue\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Sounds\Stage2.xnb
+D:\DAE_2019-2020\PD1\1DAE23_PD1Game_FINAL_Olbrechts_Baue\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Sounds\StartSound.xnb
+D:\DAE_2019-2020\PD1\1DAE23_PD1Game_FINAL_Olbrechts_Baue\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Sounds\Stage1.wma
+D:\DAE_2019-2020\PD1\1DAE23_PD1Game_FINAL_Olbrechts_Baue\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Sounds\Stage2.wma
+D:\DAE_2019-2020\PD1\1DAE23_PD1Game_FINAL_Olbrechts_Baue\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Graphics\AlienProjectileTexture.xnb
+D:\DAE_2019-2020\PD1\1DAE23_PD1Game_FINAL_Olbrechts_Baue\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\ScoreFont.xnb
+D:\DAE_2019-2020\PD1\1DAE23_PD1Game_FINAL_Olbrechts_Baue\GameProject01\GameProject01\bin\Windows\x86\Debug\GameProject01.exe
+D:\DAE_2019-2020\PD1\1DAE23_PD1Game_FINAL_Olbrechts_Baue\GameProject01\GameProject01\bin\Windows\x86\Debug\GameProject01.pdb
+D:\DAE_2019-2020\PD1\1DAE23_PD1Game_FINAL_Olbrechts_Baue\GameProject01\GameProject01\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\DAE_2019-2020\PD1\1DAE23_PD1Game_FINAL_Olbrechts_Baue\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\DAE_2019-2020\PD1\1DAE23_PD1Game_FINAL_Olbrechts_Baue\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.dll
+D:\DAE_2019-2020\PD1\1DAE23_PD1Game_FINAL_Olbrechts_Baue\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\DAE_2019-2020\PD1\1DAE23_PD1Game_FINAL_Olbrechts_Baue\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\DAE_2019-2020\PD1\1DAE23_PD1Game_FINAL_Olbrechts_Baue\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\DAE_2019-2020\PD1\1DAE23_PD1Game_FINAL_Olbrechts_Baue\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\DAE_2019-2020\PD1\1DAE23_PD1Game_FINAL_Olbrechts_Baue\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\DAE_2019-2020\PD1\1DAE23_PD1Game_FINAL_Olbrechts_Baue\GameProject01\GameProject01\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\DAE_2019-2020\PD1\1DAE23_PD1Game_FINAL_Olbrechts_Baue\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\DAE_2019-2020\PD1\1DAE23_PD1Game_FINAL_Olbrechts_Baue\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.xml
+D:\DAE_2019-2020\PD1\1DAE23_PD1Game_FINAL_Olbrechts_Baue\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\DAE_2019-2020\PD1\1DAE23_PD1Game_FINAL_Olbrechts_Baue\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\DAE_2019-2020\PD1\1DAE23_PD1Game_FINAL_Olbrechts_Baue\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\DAE_2019-2020\PD1\1DAE23_PD1Game_FINAL_Olbrechts_Baue\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\DAE_2019-2020\PD1\1DAE23_PD1Game_FINAL_Olbrechts_Baue\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\DAE_2019-2020\PD1\1DAE23_PD1Game_FINAL_Olbrechts_Baue\GameProject01\GameProject01\obj\x86\Debug\GameProject01.csprojAssemblyReference.cache
+D:\DAE_2019-2020\PD1\1DAE23_PD1Game_FINAL_Olbrechts_Baue\GameProject01\GameProject01\obj\x86\Debug\GameProject01.csproj.CoreCompileInputs.cache
+D:\DAE_2019-2020\PD1\1DAE23_PD1Game_FINAL_Olbrechts_Baue\GameProject01\GameProject01\obj\x86\Debug\GameProject01.csproj.CopyComplete
+D:\DAE_2019-2020\PD1\1DAE23_PD1Game_FINAL_Olbrechts_Baue\GameProject01\GameProject01\obj\x86\Debug\GameProject01.exe
+D:\DAE_2019-2020\PD1\1DAE23_PD1Game_FINAL_Olbrechts_Baue\GameProject01\GameProject01\obj\x86\Debug\GameProject01.pdb
+D:\GitHub_Repositories\Gradius\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Graphics\NES - Gradius - Gradius.xnb
+D:\GitHub_Repositories\Gradius\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Graphics\AlienShip1Texture.xnb
+D:\GitHub_Repositories\Gradius\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Graphics\AlienShip2Texture.xnb
+D:\GitHub_Repositories\Gradius\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Graphics\AlienShip3Texture.xnb
+D:\GitHub_Repositories\Gradius\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Graphics\AlienTurretTexture.xnb
+D:\GitHub_Repositories\Gradius\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Graphics\AvatarShip.xnb
+D:\GitHub_Repositories\Gradius\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Graphics\BackgroundTexture.xnb
+D:\GitHub_Repositories\Gradius\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Graphics\EndScreen.xnb
+D:\GitHub_Repositories\Gradius\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Graphics\ForestTexture.xnb
+D:\GitHub_Repositories\Gradius\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Graphics\ProjectileTexture.xnb
+D:\GitHub_Repositories\Gradius\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Graphics\StartScreen.xnb
+D:\GitHub_Repositories\Gradius\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\ScoreFont.spritefont
+D:\GitHub_Repositories\Gradius\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Sounds\AlienExplosion.xnb
+D:\GitHub_Repositories\Gradius\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Sounds\ProjectileShot.xnb
+D:\GitHub_Repositories\Gradius\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Sounds\ShipExplosion.xnb
+D:\GitHub_Repositories\Gradius\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Sounds\Stage1.xnb
+D:\GitHub_Repositories\Gradius\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Sounds\Stage2.xnb
+D:\GitHub_Repositories\Gradius\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Sounds\StartSound.xnb
+D:\GitHub_Repositories\Gradius\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Graphics\AlienProjectileTexture.xnb
+D:\GitHub_Repositories\Gradius\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Sounds\Stage1.wma
+D:\GitHub_Repositories\Gradius\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\Sounds\Stage2.wma
+D:\GitHub_Repositories\Gradius\GameProject01\GameProject01\bin\Windows\x86\Debug\Content\ScoreFont.xnb
+D:\GitHub_Repositories\Gradius\GameProject01\GameProject01\bin\Windows\x86\Debug\GameProject01.exe
+D:\GitHub_Repositories\Gradius\GameProject01\GameProject01\bin\Windows\x86\Debug\GameProject01.pdb
+D:\GitHub_Repositories\Gradius\GameProject01\GameProject01\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\GitHub_Repositories\Gradius\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\GitHub_Repositories\Gradius\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.dll
+D:\GitHub_Repositories\Gradius\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\GitHub_Repositories\Gradius\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\GitHub_Repositories\Gradius\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\GitHub_Repositories\Gradius\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\GitHub_Repositories\Gradius\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\GitHub_Repositories\Gradius\GameProject01\GameProject01\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\GitHub_Repositories\Gradius\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\GitHub_Repositories\Gradius\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.xml
+D:\GitHub_Repositories\Gradius\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\GitHub_Repositories\Gradius\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\GitHub_Repositories\Gradius\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\GitHub_Repositories\Gradius\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\GitHub_Repositories\Gradius\GameProject01\GameProject01\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\GitHub_Repositories\Gradius\GameProject01\GameProject01\obj\x86\Debug\GameProject01.csprojAssemblyReference.cache
+D:\GitHub_Repositories\Gradius\GameProject01\GameProject01\obj\x86\Debug\GameProject01.csproj.CoreCompileInputs.cache
+D:\GitHub_Repositories\Gradius\GameProject01\GameProject01\obj\x86\Debug\GameProject01.csproj.CopyComplete
+D:\GitHub_Repositories\Gradius\GameProject01\GameProject01\obj\x86\Debug\GameProject01.exe
+D:\GitHub_Repositories\Gradius\GameProject01\GameProject01\obj\x86\Debug\GameProject01.pdb

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/GitHub_Repositories/Gradius/GameProject01/GameProject01/Content/Graphics/AlienProjectileTexture.png</File>
+    <File>D:/GitHub_Repositories/Gradius/GameProject01/GameProject01/Content/Graphics/AlienShip1Texture.png</File>
+    <File>D:/GitHub_Repositories/Gradius/GameProject01/GameProject01/Content/Graphics/AlienShip2Texture.png</File>
+    <File>D:/GitHub_Repositories/Gradius/GameProject01/GameProject01/Content/Graphics/AlienShip3Texture.png</File>
+    <File>D:/GitHub_Repositories/Gradius/GameProject01/GameProject01/Content/Graphics/AlienTurretTexture.png</File>
+    <File>D:/GitHub_Repositories/Gradius/GameProject01/GameProject01/Content/Graphics/AvatarShip.png</File>
+    <File>D:/GitHub_Repositories/Gradius/GameProject01/GameProject01/Content/Graphics/BackgroundTexture.png</File>
+    <File>D:/GitHub_Repositories/Gradius/GameProject01/GameProject01/Content/Graphics/EndScreen.png</File>
+    <File>D:/GitHub_Repositories/Gradius/GameProject01/GameProject01/Content/Graphics/ForestTexture.png</File>
+    <File>D:/GitHub_Repositories/Gradius/GameProject01/GameProject01/Content/Graphics/ProjectileTexture.png</File>
+    <File>D:/GitHub_Repositories/Gradius/GameProject01/GameProject01/Content/Graphics/StartScreen.png</File>
+    <File>D:/GitHub_Repositories/Gradius/GameProject01/GameProject01/Content/ScoreFont.spritefont</File>
+    <File>D:/GitHub_Repositories/Gradius/GameProject01/GameProject01/Content/Sounds/AlienExplosion.wav</File>
+    <File>D:/GitHub_Repositories/Gradius/GameProject01/GameProject01/Content/Sounds/ProjectileShot.wav</File>
+    <File>D:/GitHub_Repositories/Gradius/GameProject01/GameProject01/Content/Sounds/ShipExplosion.wav</File>
+    <File>D:/GitHub_Repositories/Gradius/GameProject01/GameProject01/Content/Sounds/Stage1.mp3</File>
+    <File>D:/GitHub_Repositories/Gradius/GameProject01/GameProject01/Content/Sounds/Stage2.mp3</File>
+    <File>D:/GitHub_Repositories/Gradius/GameProject01/GameProject01/Content/Sounds/StartSound.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
